@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+bot.log
+.env
+nohup.out
